@@ -1,0 +1,20 @@
+{
+  "name": "test-crawling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "charset": "^1.0.1",
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "iconv-lite": "^0.4.24",
+    "request": "^2.88.0",
+    "url": "^0.11.0"
+  }
+}
